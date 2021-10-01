@@ -1,0 +1,5 @@
+EMPTY = 'empty_state'
+INPUT_STATE = 'input_state'
+COIN_INSERTED = 'coin_inserted_state'
+NORMAL_DISPATCHED = 'ball_dispatching_state'
+WINNER_DISPATCHED = 'winner_state'
